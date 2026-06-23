@@ -31,8 +31,8 @@ This repository contains the tasks completed during my Internet of Things (IoT) 
 ```
 Decode-labs-internship
 │
-├── Task2
-├── Task4
+├── Task2 (sensor simulation)
+├── Task4 (Automation logic)
 ├── Task5_IoT_Mini_Project
 └── README.md
 ```
